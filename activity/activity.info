@@ -1,0 +1,6 @@
+[Activity]
+name = Skype
+activity_version = 1
+service_name = org.laptop.Skypeactivity
+icon = Skypeicon
+exec = ./Ejecutar.sh
